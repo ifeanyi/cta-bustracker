@@ -1,0 +1,15 @@
+{
+	"id": "com.ifeanyiokonkwo.chicagobustracker",
+	"version": "1.2.5",
+	"vendor": "Ifeanyi Okonkwo",
+	"vendorurl" : "http://ifeanyionline.com",
+	"type": "web",
+	"noWindow":true,
+	"main": "index.html",
+	"title": "Chicago BusTracker",
+	"icon": "icon.png",
+	"smallicon": "images/icon-32x32.png",
+	"splashicon": "icon-256x256.png",
+	"copyright" : "&copy; 2010 Ifeanyi Okonkwo",
+	"keywords": ["cta","cab","taxi","train","bus"]
+}
