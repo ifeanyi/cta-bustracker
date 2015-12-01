@@ -1,0 +1,25 @@
+[
+	 {"source": "app/assistants/bt.js"},
+	 {"source": "app/assistants/app-assistant.js"},
+    {
+        "scenes": "routes",
+        "source": "app/assistants/routes-assistant.js"
+    },
+    {
+        "scenes": "stops",
+        "source": "app/assistants/stops-assistant.js"
+    },
+    {
+        "scenes": "predictions",
+        "source": "app/assistants/predictions-assistant.js"
+    },
+    {
+        "scenes": "favorites",
+        "source": "app/assistants/favorites-assistant.js"
+    },
+    {"source": "app/assistants/favDialog-assistant.js"},
+    {
+        "scenes": "info",
+        "source": "app/assistants/info-assistant.js"
+    }
+]
